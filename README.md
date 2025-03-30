@@ -17,7 +17,7 @@
   - OpenCV overview
   - OpenVINO overview
 
-![Intel!](Certificates/Intel.png)
+![Intel!](Intel.png)
 
 ## Введение в машинное обучение и нейронные сети. 2022г.
   - Классические методы машинного обучения.
