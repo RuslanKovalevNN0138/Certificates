@@ -3,8 +3,8 @@
 
 ## Зимняя школа от Intel по оптимизации алгоритмов компьютерного зрения. 2022г.
   - Architecture Pipeline
-  - Architecutre Memory
-  - Into to Optimization
+  - Architecture Memory
+  - Intro to Optimization
   - Introduction to Parallel Programming
   - Parallel Programming and OpenMP
   - Compiler Overview and Optimization
